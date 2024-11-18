@@ -1,11 +1,12 @@
-﻿// Fractionate 0.3
+﻿// Fractionate 0.4
 // Lamma Studio Design
-// 12-5-2021
+// 18-11-2024
 
 // Changelog
 // 0.1 Initial release
 // 0.2 Make Spaces Great Again
 // 0.3 Move Fractions group to main menu
+// 0.4 Fixed typo in "Fraction Upper Last" 
 
 /////////////////////////// NOTES ///////////////////////////////
 //                                                             //
