@@ -38,7 +38,7 @@ function fraction(){
 
 // Setup the Character Styles
 		var FUpStyle = app.activeDocument.characterStyleGroups.itemByName("Fractions").characterStyles.itemByName("Fraction Upper");
-		var FUpLastStyle = app.activeDocument.characterStyleGroups.itemByName("Fractions").characterStyles.itemByName("Fraction Upper last");
+		var FUpLastStyle = app.activeDocument.characterStyleGroups.itemByName("Fractions").characterStyles.itemByName("Fraction Upper Last");
 		var FSlashStyle = app.activeDocument.characterStyleGroups.itemByName("Fractions").characterStyles.itemByName("Fraction Slash");
 		var FLowStyle = app.activeDocument.characterStyleGroups.itemByName("Fractions").characterStyles.itemByName("Fraction Lower");
 		var NoStyle = app.activeDocument.allCharacterStyles[0];
